@@ -1,0 +1,26 @@
+{
+  "name": "Officer-Jenny",
+  "version": "2.0.0",
+  "description": "Officer Jenny Discord bot for automatic content filtering",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "discord.js-commando": "github:Googer/discord.js-commando",
+    "knex": "^0.16.3",
+    "loglevel": "^1.6.1",
+    "loglevel-prefix-persist": "^1.0.3",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node %NODE_DEBUG_OPTION% index.js"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/jeremy-dentel/Officer-Jenny.git"
+  },
+  "author": "Jeremy Dentel",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/jeremy-dentel/Officer-Jenny#readme"
+}

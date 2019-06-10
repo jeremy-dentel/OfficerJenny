@@ -1,0 +1,7 @@
+{
+  "channels": {
+    "bot-lab": "the-bot-lab",
+    "mod-bot-lab": "mod-bot-only",
+    "reports": "reports"
+  }
+}
