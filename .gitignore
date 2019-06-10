@@ -1,0 +1,16 @@
+# ignore node files
+node_modules/
+
+# ignore IDEA workspace file
+.idea/workspace.xml
+
+# ignore private settings
+data/private-settings.json
+
+# ignore log files
+*.log
+
+# ignore debug image processing images
+assets/processing
+
+yarn.lock
